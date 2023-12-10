@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on many student
 - 🤔 I’m looking for help with pront developer
 - 💬 Ask me about AI
+- 💬 Ask me Computer Vision and database
 - ⚡ Fun fact: I am an active person
 
