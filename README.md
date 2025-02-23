@@ -1,35 +1,42 @@
-### Hi there 👋
+### 🎨 Hi there 👋 Welcome to **Merit** GitHub ✨
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20'Merit'%20GitHub%20✨&fontColor=ffffff&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20'**Merit**'%20GitHub%20✨&fontColor=ffffff&fontSize=40&font=Inter)
 
-**MeritEnding/MeritEnding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-1. State
-  😃 😎 🏃 😉
+#### 1. State - Embrace the abstract art of progress 🎭
+   
+  😃 Curious mind, 😎 Evolving self, 🏃 Striving forward, 🖼️ Imperfectly perfect
 
-2. Tech Stack
+---
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=JavaScript&logoColor=white"/>
+#### 2. Tech Stack 💻 - Layers of creativity and function
 
-3. Stats Card
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
+
+---
+
+#### 3. Stats Card 📊 - Masterpieces of progress
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeritEnding)](https://github.com/anuraghazra/github-readme-stats)
 
-4. Top Languages Card
+---
+
+#### 4. Top Languages Card 🗣️ - The language of creativity
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeritEnding)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on HanbatUniversity
-- 🌱 I’m currently learning Django, React, Tenserflow.js
-- 👯 I’m looking to collaborate on many student
-- 🤔 I’m looking for help with pront developer
-- 💬 Ask me about AI
-- 💬 Ask me Computer Vision and database
-- ⚡ Fun fact: I am an active person
+### Here's a touch of my creative process:
 
+- 🔭 Currently working on: [Hanbat University](#) 🖌️
+- 🌱 Learning: Django, React, TensorFlow.js
+- 👯 Collaborating: Let's build something groundbreaking! 🌍
+- 🤔 Seeking help with: Front-end design and implementation 💡
+- 💬 Talk to me about: AI 🤖, Computer Vision, and Database 📚
+- ⚡ Fun Fact: I see art in code, and code in art 🎨
