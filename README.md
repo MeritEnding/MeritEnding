@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20**Merit**%20GitHub%20✨&fontColor=ffffff&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20'Merit'%20GitHub%20✨&fontColor=ffffff&fontSize=40)
 
 **MeritEnding/MeritEnding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
