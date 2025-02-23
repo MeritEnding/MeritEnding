@@ -4,13 +4,13 @@
 
 ---
 
-#### 1. State - Embrace the abstract art of progress 🎭
+#### 1. State 🎭
    
   😃 Curious mind, 😎 Evolving self, 🏃 Striving forward, 🖼️ Imperfectly perfect
 
 ---
 
-#### 2. Tech Stack 💻 - Layers of creativity and function
+#### 2. Tech Stack 💻
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
@@ -20,13 +20,13 @@
 
 ---
 
-#### 3. Stats Card 📊 - Masterpieces of progress
+#### 3. Stats Card 📊 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeritEnding)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-#### 4. Top Languages Card 🗣️ - The language of creativity
+#### 4. Top Languages Card 🗣️ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeritEnding)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -39,4 +39,3 @@
 - 👯 Collaborating: Let's build something groundbreaking! 🌍
 - 🤔 Seeking help with: Front-end design and implementation 💡
 - 💬 Talk to me about: AI 🤖, Computer Vision, and Database 📚
-- ⚡ Fun Fact: I see art in code, and code in art 🎨
