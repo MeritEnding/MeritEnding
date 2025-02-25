@@ -34,7 +34,6 @@
 
 #### 6. Solved.ac Profile
 
-![Programmers Badge](https://raw.githubusercontent.com/MeritEnding/Programmers_Badge_Generator/main/result/result.svg)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksldsk)](https://solved.ac/dksldsk/)
 
