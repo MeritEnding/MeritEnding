@@ -32,6 +32,10 @@
 
 ---
 
+#### 6. Solved.ac Profile
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksldsk)](https://solved.ac/dksldsk/)
+
+
 ### Here's a touch of my creative process:
 
 - 🔭 Currently working on: [Hanbat University](#) 🖌️
