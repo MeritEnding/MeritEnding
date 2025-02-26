@@ -42,6 +42,8 @@
 
 [![Merit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MeritEnding&theme=monokai)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+
+---
 ### Here's a touch of my creative process:
 
 - 🔭 Currently working on: [Hanbat University](#) 🖌️
