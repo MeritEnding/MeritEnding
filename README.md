@@ -38,6 +38,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksldsk)](https://solved.ac/dksldsk/)
 
 ---
+#### 7. Contribution Graph
+
+[![Merit's github activity graph](https://activity-graph.herokuapp.com/graph?username=MeritEnding&theme=monokai)](https://github.com/MeritEnding/github-readme-activity-graph)
 
 ### Here's a touch of my creative process:
 
