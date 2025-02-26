@@ -40,7 +40,7 @@
 ---
 #### 7. Contribution Graph
 
-[![Merit's github activity graph](https://activity-graph.herokuapp.com/graph?username=MeritEnding&theme=monokai)](https://github.com/MeritEnding/github-readme-activity-graph)
+[![Merit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MeritEnding&theme=monokai)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ### Here's a touch of my creative process:
 
