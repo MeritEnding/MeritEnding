@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=안녕하세요%20이정훈입니다%20&fontColor=ffffff&fontSize=40&font=Inter)
 
-#### Channels
+### Channels
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/Lee-Jung-Hoon-Resume-1f947577abe680d9b7e6c74158d655b4) [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://merit-ending.tistory.com/)
 
-#### Skills 
+### Skills 
 ---
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)  ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
  
@@ -17,7 +17,7 @@
 
 
 
-#### Projects
+### Projects
 ---
 | Title | Period | Description | Role |
 |---|---|---|---|
@@ -32,7 +32,7 @@
 | **AWS 기반 보안 강화 및 자동화 웹 서비스 구축** | 2025.05| AWS 클라우드 환경에서 보안 및 확장성을 고려한 Multi-Tier 아키텍처 기반 웹 서비스 설계 및 구축. | ![Project Lead](https://img.shields.io/badge/Project%20Lead-8A2BE2?style=flat-square&logo=leader&logoColor=white) |
 
 
-#### Awards & Certificate
+### Awards & Certificate
 ---
 
 - 2025 대한 전자공학회 학술심포지움 - 우수 논문상(사단법인 회장) / 2024.12
@@ -49,7 +49,7 @@
 - AZure-204 취득 / 2025.06
 
 
-#### Community
+### Community
 ---
 * **2025.03 ~ 2024.09** KT 에이블스쿨 AI 서비스 개발자 양성과정 7기 - 수료
 * **2025.07 ~ 2023.09** K-Digital training 해커톤 - 프로젝트 매니저 (PM)
