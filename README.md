@@ -29,8 +29,7 @@
 | **AWS 기반 보안 강화 및 자동화 웹 서비스 구축** | 2025.05| AWS 클라우드 환경에서 보안 및 확장성을 고려한 Multi-Tier 아키텍처 기반 웹 서비스 설계 및 구축. | ![Project Lead](https://img.shields.io/badge/Project%20Lead-8A2BE2?style=flat-square&logo=leader&logoColor=white) |
 
 
-Community
-## Timeline
+#### Community
 
 * **2025.03 ~ 2024.09** KT 에이블스쿨 AI 서비스 개발자 양성과정 7기 - 수료
 * **2025.07 ~ 2023.09** K-Digital training 해커톤 - 프로젝트 매니저 (PM)
