@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=안녕하세요%20이정훈입니다%20&fontColor=ffffff&fontSize=40&font=Inter)
 
 #### Channels
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)
+![Notion](https://www.notion.so/Lee-Jung-Hoon-Resume-1f947577abe680d9b7e6c74158d655b4)![Tistory](https://merit-ending.tistory.com/)
 
 
 #### Skills 
