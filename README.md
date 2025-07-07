@@ -67,11 +67,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksldsk)](https://solved.ac/dksldsk/)
 
----
-### Here's a touch of my creative process:
-
-- 🔭 Currently working on: [Hanbat University](#) 🖌️
-- 🌱 Learning: Django, React, TensorFlow.js
-- 👯 Collaborating: Let's build something groundbreaking! 🌍
-- 🤔 Seeking help with: Front-end design and implementation 💡
-- 💬 Talk to me about: AI 🤖, Computer Vision, and Database 📚
