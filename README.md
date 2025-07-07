@@ -3,7 +3,7 @@
 ---
 
 #### Skills 
-
+---
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)  ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
  
 
@@ -14,8 +14,10 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft%20Azure&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)  
 
 
-#### Projects
 
+
+#### Projects
+---
 | Title | Period | Description | Role |
 |---|---|---|---|
 | **[LLM 기반 전세사기 예방 플랫폼 개발](https://github.com/your-github-link)** | 2025.03 | 생성형 AI 기반의 전세사기 리스크 탐지 및 대화형 상담 플랫폼 개발. 공공 데이터 및 LLM 프롬프트 최적화를 통해 실효성 있는 상담 경험 제공. | ![Project Lead](https://img.shields.io/badge/Project%20Lead-8A2BE2?style=flat-square&logo=leader&logoColor=white) ![FullStack](https://img.shields.io/badge/Full%20Stack-20C997?style=flat-square&logo=code&logoColor=white) |
@@ -29,8 +31,24 @@
 | **AWS 기반 보안 강화 및 자동화 웹 서비스 구축** | 2025.05| AWS 클라우드 환경에서 보안 및 확장성을 고려한 Multi-Tier 아키텍처 기반 웹 서비스 설계 및 구축. | ![Project Lead](https://img.shields.io/badge/Project%20Lead-8A2BE2?style=flat-square&logo=leader&logoColor=white) |
 
 
-#### Community
+#### Awards & Certificate
+---
 
+- 2025 대한 전자공학회 학술심포지움 - 우수 논문상(사단법인 회장) / 2024.12
+- 2025 한밭최우수인재 / 2025.02
+- 2022 충청권 멘토멘티 - 최우수상 / 2023.02 
+- 2024 한밭최우수인재 / 2025.02
+- 2023 한밭우수인재 / 2024.02
+- 정보처리기사 취득 / 2024.09
+- 컴퓨터 활용능력 2급 취득 / 2024.10
+- 데이터 준전문가 취득 / 2024.03
+- SQL 개발자 취득 / 2024.09
+- AICE associate 취득 / 2025.04
+- AZure-204 취득 / 2025.06
+
+
+#### Community
+---
 * **2025.03 ~ 2024.09** KT 에이블스쿨 AI 서비스 개발자 양성과정 7기 - 수료
 * **2025.07 ~ 2023.09** K-Digital training 해커톤 - 프로젝트 매니저 (PM)
 * **2025.05 ~ 2023.09** 공모전 스터디 - 프로젝트 매니저 (PM)
