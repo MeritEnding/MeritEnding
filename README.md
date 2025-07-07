@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20'Merit'%20GitHub%20✨&fontColor=ffffff&fontSize=40&font=Inter)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=안녕하세요 이정훈입니다.%20GitHub%20✨&fontColor=ffffff&fontSize=40&font=Inter)
 
 #### Skills 
 ---
