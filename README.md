@@ -29,7 +29,7 @@
 | **ResNet 기반 이미지 분류 모델 구현 및 실험** | 2024.05 | ResNet 구조 활용 이미지 분류 모델 구현. 하이퍼파라미터 튜닝 및 변형 실험을 통해 정확도 개선 및 과적합 방지. | ![Backend](https://img.shields.io/badge/Backend-000000?style=flat-square&logo=server&logoColor=white)|
 | **카테고리별 영화 추천 시스템 개발** | - | 사용자의 영화 선호도와 메타데이터를 분석하여 개인 맞춤형 영화를 추천하는 머신러닝 기반 시스템 개발. | ![FullStack](https://img.shields.io/badge/Full%20Stack-20C997?style=flat-square&logo=code&logoColor=white)|
 | **IoT 코어 SCADA 전력망 해킹 시나리오 시뮬레이션** | - | 전력망 IoT 기기 보안 취약점 분석 및 해킹 시나리오 시뮬레이션을 통한 위협 증명 및 대응 방안 제시. | ![Project Lead](https://img.shields.io/badge/Project%20Lead-8A2BE2?style=flat-square&logo=leader&logoColor=white)|
-| **AWS 기반 보안 강화 및 자동화 웹 서비스 구축** | 2025.05| AWS 클라우드 환경에서 보안 및 확장성을 고려한 Multi-Tier 아키텍처 기반 웹 서비스 설계 및 구축. | ![Project Lead](https://img.shields.io/badge/Project%20Lead-8A2BE2?style=flat-square&logo=leader&logoColor=white) |
+| **AWS 기반 보안 강화 및 자동화 웹 서비스 구축** | 2025.05| AWS 클라우드 환경에서 보안 및 확장성을 고려한 Multi-Tier 아키텍처 기반 웹 서비스 설계 및 구축. | ![Backend] |
 
 
 ### Awards & Certificate
