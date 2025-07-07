@@ -18,15 +18,15 @@
 
 | Title | Period | Description | Role |
 |---|---|---|---|
-| **[LLM 기반 전세사기 예방 플랫폼 개발](https://github.com/your-github-link)** | 2025.03 ~ 2025.06 | 생성형 AI 기반의 전세사기 리스크 탐지 및 대화형 상담 플랫폼 개발. 공공 데이터 및 LLM 프롬프트 최적화를 통해 실효성 있는 상담 경험 제공. | Backend |
-| **[Deepfillv2 인페인팅 성능 개선 및 실증 구현](https://github.com/your-github-link)** | 2024.03 ~ 2024.12 | Deepfillv2 모델 구조 변형을 통해 PSNR 6% 향상 달성. AWS 클라우드 환경에서 모델 학습 및 인페인팅 서비스 실증 구현. | Backend<br>Deployment |
-| **AI 출판 플랫폼 'AI PUBLISH'** | 2025.06 ~ 2025.07 | KT AIVLE School 미니프로젝트. MSA 및 Kafka 기반 EDA를 활용하여 작가의 출판 프로세스 자동화 및 구독 서비스 제공 플랫폼 구축.| Backend<br>Deployment |
-| **2025 날씨 빅데이터 콘테스트 – 열수요 및 119 신고 건수 예측** | 2025.02 ~ 2025.05 | 기상·공공 데이터 기반 열수요 및 119 신고 건수 예측 모델 개발. 복수 도메인 예측 및 이상 징후 탐지 수행. | Backend |
-| **LLM 활용 면접 자동화 시스템 개발** | 2025.05 (1주 / 8명) | 생성형 AI 기반 모의 면접 답변 평가 및 피드백 자동화 시스템 설계. 평가 기준 구조화 및 Prompt 엔지니어링 구현.<br>**Skills:** #LLM #PromptEngineering #LangChain #OpenAI #InterviewAI #Python | Backend |
-| **ResNet 기반 이미지 분류 모델 구현 및 실험** | 2024.05 ~ 2024.06 | ResNet 구조 활용 이미지 분류 모델 구현. 하이퍼파라미터 튜닝 및 변형 실험을 통해 정확도 개선 및 과적합 방지. | Backend |
+| **[LLM 기반 전세사기 예방 플랫폼 개발](https://github.com/your-github-link)** | 2025.03 | 생성형 AI 기반의 전세사기 리스크 탐지 및 대화형 상담 플랫폼 개발. 공공 데이터 및 LLM 프롬프트 최적화를 통해 실효성 있는 상담 경험 제공. | Backend |
+| **[Deepfillv2 인페인팅 성능 개선 및 실증 구현](https://github.com/your-github-link)** | 2024.03 | Deepfillv2 모델 구조 변형을 통해 PSNR 6% 향상 달성. AWS 클라우드 환경에서 모델 학습 및 인페인팅 서비스 실증 구현. | Backend<br>Deployment |
+| **AI 출판 플랫폼 'AI PUBLISH'** | 2025.06 | KT AIVLE School 미니프로젝트. MSA 및 Kafka 기반 EDA를 활용하여 작가의 출판 프로세스 자동화 및 구독 서비스 제공 플랫폼 구축.| Backend<br>Deployment |
+| **2025 날씨 빅데이터 콘테스트 – 열수요 및 119 신고 건수 예측** | 2025.02 | 기상·공공 데이터 기반 열수요 및 119 신고 건수 예측 모델 개발. 복수 도메인 예측 및 이상 징후 탐지 수행. | Backend |
+| **LLM 활용 면접 자동화 시스템 개발** | 2025.05 | 생성형 AI 기반 모의 면접 답변 평가 및 피드백 자동화 시스템 설계. 평가 기준 구조화 및 Prompt 엔지니어링 구현. | Backend |
+| **ResNet 기반 이미지 분류 모델 구현 및 실험** | 2024.05 | ResNet 구조 활용 이미지 분류 모델 구현. 하이퍼파라미터 튜닝 및 변형 실험을 통해 정확도 개선 및 과적합 방지. | Backend |
 | **카테고리별 영화 추천 시스템 개발** | - | 사용자의 영화 선호도와 메타데이터를 분석하여 개인 맞춤형 영화를 추천하는 머신러닝 기반 시스템 개발. | Backend |
 | **IoT 코어 SCADA 전력망 해킹 시나리오 시뮬레이션** | - | 전력망 IoT 기기 보안 취약점 분석 및 해킹 시나리오 시뮬레이션을 통한 위협 증명 및 대응 방안 제시. | Backend |
-| **AWS 기반 보안 강화 및 자동화 웹 서비스 구축** | 2025.05 (2주 / 8인 팀 프로젝트) | AWS 클라우드 환경에서 보안 및 확장성을 고려한 Multi-Tier 아키텍처 기반 웹 서비스 설계 및 구축. | Backend<br>Deployment |
+| **AWS 기반 보안 강화 및 자동화 웹 서비스 구축** | 2025.05| AWS 클라우드 환경에서 보안 및 확장성을 고려한 Multi-Tier 아키텍처 기반 웹 서비스 설계 및 구축. | Backend<br>Deployment |
 
 
 
