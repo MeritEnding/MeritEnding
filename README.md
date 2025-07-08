@@ -30,6 +30,8 @@
 | **카테고리별 영화 추천 시스템 개발** | 2022.06 | 사용자의 영화 선호도와 메타데이터를 분석하여 개인 맞춤형 영화를 추천하는 머신러닝 기반 시스템 개발. | ![FullStack](https://img.shields.io/badge/Full%20Stack-20C997?style=flat-square&logo=code&logoColor=white)|
 | **IoT 코어 SCADA 전력망 해킹 시나리오 시뮬레이션** | 2024.06 | 전력망 IoT 기기 보안 취약점 분석 및 해킹 시나리오 시뮬레이션을 통한 위협 증명 및 대응 방안 제시. | ![Project Lead](https://img.shields.io/badge/Project%20Lead-8A2BE2?style=flat-square&logo=leader&logoColor=white)|
 | **AWS 기반 보안 강화 및 자동화 웹 서비스 구축** | 2025.05| AWS 클라우드 환경에서 보안 및 확장성을 고려한 Multi-Tier 아키텍처 기반 웹 서비스 설계 및 구축. | ![Backend](https://img.shields.io/badge/Backend-000000?style=flat-square&logo=server&logoColor=white) |
+| **myshell: 사용자 정의 셸 환경 구현** | 2024.05 | C 언어로 나만의 셸(myshell)을 구현하여 명령어 파싱, 프로세스 제어, 리디렉션, 파이프라인 등의 기능을 직접 처리. 리눅스 기반 환경에서 쉘의 동작 원리를 이해하고 구현 역량 강화. |
+|
 
 
 ### Awards & Certificate
