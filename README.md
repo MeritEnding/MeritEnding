@@ -35,8 +35,8 @@
 | **myshell: 사용자 정의 셸 환경 구현** | 2025.04 | C 언어 기반의 커스텀 셸 구현. 명령어 파싱, 리디렉션, 파이프라인, 백그라운드 실행, 내장 명령어 처리 등 핵심 쉘 기능을 직접 구현. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
 | **동물 찾기 게임 개발** | 2023.04 | Java GUI 기반 동물 사진 맞추기 게임 개발. 사용자 입력 처리, 점수 시스템, 타이머 기능 구현을 통해 이벤트 기반 프로그래밍 경험. | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white) |
 | **OpenCV 폰트 생성기 개발** | 2023.04 | OpenCV를 활용해 이미지 기반 폰트를 분석·추출하고 커스텀 폰트를 생성하는 도구 제작. 전처리, 컨투어 감지, 폰트 매핑 로직을 중심으로 이미지 처리 경험 습득. | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white) |
-| **스마트팜 자동화 시스템 (Arduino)** | 2023.04 | 아두이노를 이용한 스마트팜 제작. 온습도 센서, 조도센서, 서보모터 등을 활용해 자동 물 주기, 환경 모니터링 기능 구현. | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
-| **스타크래프트 UI 구현 (객체지향 프로그래밍)** | 2022.11 | C++로 스타크래프트 인터페이스를 모방한 GUI 프로그램 구현. 유닛 선택, 이동, 상호작용 등의 기능을 객체지향적으로 설계하여 클래스 간 역할 분리를 학습. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **스마트팜 자동화 시스템** | 2023.04 | 아두이노를 이용한 스마트팜 제작. 온습도 센서, 조도센서, 서보모터 등을 활용해 자동 물 주기, 환경 모니터링 기능 구현. | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
+| **스타크래프트 UI 구현** | 2022.11 | C++로 스타크래프트 인터페이스를 모방한 GUI 프로그램 구현. 유닛 선택, 이동, 상호작용 등의 기능을 객체지향적으로 설계하여 클래스 간 역할 분리를 학습. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
 
 
 ### Awards & Certificate
