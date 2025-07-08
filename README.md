@@ -27,8 +27,8 @@
 | **2025 날씨 빅데이터 콘테스트 – 열수요 및 119 신고 건수 예측** | 2025.02 | 기상·공공 데이터 기반 열수요 및 119 신고 건수 예측 모델 개발. 복수 도메인 예측 및 이상 징후 탐지 수행. | ![Project Manager](https://img.shields.io/badge/Project%20Manager-FF8C00?style=flat-square&logo=marketo&logoColor=white) |
 | **LLM 활용 면접 자동화 시스템 개발** | 2025.05 | 생성형 AI 기반 모의 면접 답변 평가 및 피드백 자동화 시스템 설계. 평가 기준 구조화 및 Prompt 엔지니어링 구현. | ![Backend](https://img.shields.io/badge/Backend-000000?style=flat-square&logo=server&logoColor=white)|
 | **ResNet 기반 이미지 분류 모델 구현 및 실험** | 2024.05 | ResNet 구조 활용 이미지 분류 모델 구현. 하이퍼파라미터 튜닝 및 변형 실험을 통해 정확도 개선 및 과적합 방지. | ![Backend](https://img.shields.io/badge/Backend-000000?style=flat-square&logo=server&logoColor=white)|
-| **카테고리별 영화 추천 시스템 개발** | - | 사용자의 영화 선호도와 메타데이터를 분석하여 개인 맞춤형 영화를 추천하는 머신러닝 기반 시스템 개발. | ![FullStack](https://img.shields.io/badge/Full%20Stack-20C997?style=flat-square&logo=code&logoColor=white)|
-| **IoT 코어 SCADA 전력망 해킹 시나리오 시뮬레이션** | - | 전력망 IoT 기기 보안 취약점 분석 및 해킹 시나리오 시뮬레이션을 통한 위협 증명 및 대응 방안 제시. | ![Project Lead](https://img.shields.io/badge/Project%20Lead-8A2BE2?style=flat-square&logo=leader&logoColor=white)|
+| **카테고리별 영화 추천 시스템 개발** | 2022.06 | 사용자의 영화 선호도와 메타데이터를 분석하여 개인 맞춤형 영화를 추천하는 머신러닝 기반 시스템 개발. | ![FullStack](https://img.shields.io/badge/Full%20Stack-20C997?style=flat-square&logo=code&logoColor=white)|
+| **IoT 코어 SCADA 전력망 해킹 시나리오 시뮬레이션** | 2024.06 | 전력망 IoT 기기 보안 취약점 분석 및 해킹 시나리오 시뮬레이션을 통한 위협 증명 및 대응 방안 제시. | ![Project Lead](https://img.shields.io/badge/Project%20Lead-8A2BE2?style=flat-square&logo=leader&logoColor=white)|
 | **AWS 기반 보안 강화 및 자동화 웹 서비스 구축** | 2025.05| AWS 클라우드 환경에서 보안 및 확장성을 고려한 Multi-Tier 아키텍처 기반 웹 서비스 설계 및 구축. | ![Backend](https://img.shields.io/badge/Backend-000000?style=flat-square&logo=server&logoColor=white) |
 
 
