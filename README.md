@@ -30,7 +30,7 @@
 | **카테고리별 영화 추천 시스템 개발** | 2022.06 | 사용자의 영화 선호도와 메타데이터를 분석하여 개인 맞춤형 영화를 추천하는 머신러닝 기반 시스템 개발. | ![FullStack](https://img.shields.io/badge/Full%20Stack-20C997?style=flat-square&logo=code&logoColor=white)|
 | **IoT 코어 SCADA 전력망 해킹 시나리오 시뮬레이션** | 2024.06 | 전력망 IoT 기기 보안 취약점 분석 및 해킹 시나리오 시뮬레이션을 통한 위협 증명 및 대응 방안 제시. | ![Project Lead](https://img.shields.io/badge/Project%20Lead-8A2BE2?style=flat-square&logo=leader&logoColor=white)|
 | **AWS 기반 보안 강화 및 자동화 웹 서비스 구축** | 2025.05| AWS 클라우드 환경에서 보안 및 확장성을 고려한 Multi-Tier 아키텍처 기반 웹 서비스 설계 및 구축. | ![Backend](https://img.shields.io/badge/Backend-000000?style=flat-square&logo=server&logoColor=white) |
-| **myshell: 사용자 정의 셸 환경 구현** | 2025.04 | C 언어 기반의 커스텀 셸 구현. 명령어 파싱, 리디렉션, 파이프라인, 백그라운드 실행, 내장 명령어 처리 등 핵심 쉘 기능을 직접 구현. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **myshell: 사용자 정의 셸 환경 구현** | 2025.04 | C 언어 기반의 커스텀 셸 구현. 명령어 파싱, 리디렉션, 파이프라인, 백그라운드 실행, 내장 명령어 처리 등 핵심 쉘 기능을 직접 구현. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
 | **스타크래프트 UI 구현 (객체지향 프로그래밍)** | 2024.10 | C++로 스타크래프트 인터페이스를 모방한 GUI 프로그램 구현. 유닛 선택, 이동, 상호작용 등의 기능을 객체지향적으로 설계하여 클래스 간 역할 분리를 학습. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
 | **동물 찾기 게임 개발** | 2024.06 | Java GUI 기반 동물 사진 맞추기 게임 개발. 사용자 입력 처리, 점수 시스템, 타이머 기능 구현을 통해 이벤트 기반 프로그래밍 경험. | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white) |
 | **OpenCV 폰트 생성기 개발** | 2024.03 | OpenCV를 활용해 이미지 기반 폰트를 분석·추출하고 커스텀 폰트를 생성하는 도구 제작. 전처리, 컨투어 감지, 폰트 매핑 로직을 중심으로 이미지 처리 경험 습득. | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white) |
