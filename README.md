@@ -45,7 +45,8 @@ Awards & Certificate
 - AZure-204 취득 / 2025.06
 
 
-### Community
+Community
+---
 * **2025.03 ~ 2025.09** KT 에이블스쿨 AI 서비스 개발자 양성과정 7기 - 수료
 * **2025.07 ~ 2025.09** K-Digital training 해커톤 - 프로젝트 매니저 (PM)
 * **2025.05 ~ 2025.09** 공모전 스터디 - 프로젝트 매니저 (PM)
@@ -63,7 +64,8 @@ Awards & Certificate
 * **2020.09 ~ 2022.03** 공병 - 만기전역
 * **2019.03** 한밭대학교 정보통신공학과 입학
 
-### Projects
+Projects
+---
 | Title | Period | Description | Role |
 |---|---|---|---|
 | **[LLM 기반 전세사기 예방 플랫폼 개발](https://github.com/MeritEnding/jguard.git)** | 2025.03 | 생성형 AI 기반의 전세사기 리스크 탐지 및 대화형 상담 플랫폼 개발. 공공 데이터 및 LLM 프롬프트 최적화를 통해 실효성 있는 상담 경험 제공. | ![Project Lead](https://img.shields.io/badge/Project%20Lead-8A2BE2?style=flat-square&logo=leader&logoColor=white) ![FullStack](https://img.shields.io/badge/Full%20Stack-20C997?style=flat-square&logo=code&logoColor=white) |
