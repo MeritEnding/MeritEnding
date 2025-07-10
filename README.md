@@ -28,7 +28,7 @@ Education
     * March 2025 – September 2025 / Seongnam, Gyeonggi-do, South Korea
     * Capstone Project: AI-Powered Support System for Career & Employment Counselors
 
-### Awards & Certificate
+Awards & Certificate
 ---
 
 - 2025 대한 전자공학회 학술심포지움 - 우수 논문상(사단법인 회장) / 2024.12
@@ -45,7 +45,7 @@ Education
 - AZure-204 취득 / 2025.06
 
 
-### Community
+Community
 ---
 * **2025.03 ~ 2025.09** KT 에이블스쿨 AI 서비스 개발자 양성과정 7기 - 수료
 * **2025.07 ~ 2025.09** K-Digital training 해커톤 - 프로젝트 매니저 (PM)
@@ -64,7 +64,7 @@ Education
 * **2020.09 ~ 2022.03** 공병 - 만기전역
 * **2019.03** 한밭대학교 정보통신공학과 입학
 
-### Projects
+Projects
 ---
 | Title | Period | Description | Role |
 |---|---|---|---|
