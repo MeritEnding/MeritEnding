@@ -16,6 +16,8 @@ Skills
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft%20Azure&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)  
 
 
+
+
 Education
 ---
 * **Hanbat National University** – B.S. in Information and Communication Engineering (Advanced Major)
@@ -27,6 +29,8 @@ Education
 * **KT AIVLE School** – AI Developer Track (7th Cohort)
     * March 2025 – September 2025 / Seongnam, Gyeonggi-do, South Korea
     * Capstone Project: AI-Powered Support System for Career & Employment Counselors
+
+
 
 
 Awards & Certificate
@@ -43,6 +47,8 @@ Awards & Certificate
 - SQL 개발자 취득 / 2024.09
 - AICE associate 취득 / 2025.04
 - AZure-204 취득 / 2025.06
+
+
 
 
 Community
@@ -63,6 +69,8 @@ Community
 * **2022.03 ~ 2022.09** 네이버 부스트캠프 - 교육생
 * **2020.09 ~ 2022.03** 공병 - 만기전역
 * **2019.03** 한밭대학교 정보통신공학과 입학
+
+
 
 Projects
 ---
