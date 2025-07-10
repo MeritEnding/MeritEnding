@@ -18,13 +18,13 @@
 ### Education
 ---
 
-Hanbat National University – B.S. in Information and Communication Engineering (Advanced Major)
+- Hanbat National University – B.S. in Information and Communication Engineering (Advanced Major)
 DSC Shared University Program – Mobility Software/AI (Interdisciplinary Major)
 March 2019 – February 2025 / Daejeon, Korea
 Capstone Project: Performance Enhancement and Implementation of Image Inpainting Based on Deepfillv2
 GPA (out of 4.5): 4.25
 
-KT AIVLE School – AI Developer Track (7th Cohort)
+- KT AIVLE School – AI Developer Track (7th Cohort)
 March 2025 – September 2025 / Seongnam Gyeonggi-do, Korea
 Capstone Project: AI-Powered Support System for Career & Employment Counselors
 
