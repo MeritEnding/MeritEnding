@@ -22,10 +22,8 @@
 March 2019 – February 2025 / Daejeon, Korea
 Capstone Project: Performance Enhancement and Implementation of Image Inpainting Based on Deepfillv2
 GPA (out of 4.5): 4.25
-
 - DSC Shared University Program – Mobility Software/AI (Interdisciplinary Major)
 February 2023 – October 2023 / Daejeon, Korea
-
 - KT AIVLE School – AI Developer Track (7th Cohort)
 March 2025 – September 2025 / Seongnam Gyeonggi-do, Korea
 Capstone Project: AI-Powered Support System for Career & Employment Counselors
