@@ -1,11 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=안녕하세요%20이정훈입니다%20&fontColor=ffffff&fontSize=40&font=Inter)
 
-Channels
----
+### Channels
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://merit-ending.tistory.com/)
 
-Skills
----
+### Skills
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)  ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
  
 
@@ -16,8 +14,7 @@ Skills
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft%20Azure&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)  
 
 
-Education
----
+### Education
 * **Hanbat National University** – B.S. in Information and Communication Engineering (Advanced Major)
     * March 2019 – February 2025 / Daejeon, South Korea
     * Capstone Project: Performance Enhancement and Implementation of Image Inpainting Based on Deepfillv2
@@ -28,9 +25,8 @@ Education
     * March 2025 – September 2025 / Seongnam, Gyeonggi-do, South Korea
     * Capstone Project: AI-Powered Support System for Career & Employment Counselors
 
-Awards & Certificate
----
 
+### Awards & Certificate
 - 2025 대한 전자공학회 학술심포지움 - 우수 논문상(사단법인 회장) / 2024.12
 - 2025 한밭최우수인재 / 2025.02
 - 2024 한밭최우수인재 / 2025.02
@@ -45,8 +41,7 @@ Awards & Certificate
 - AZure-204 취득 / 2025.06
 
 
-Community
----
+### Community
 * **2025.03 ~ 2025.09** KT 에이블스쿨 AI 서비스 개발자 양성과정 7기 - 수료
 * **2025.07 ~ 2025.09** K-Digital training 해커톤 - 프로젝트 매니저 (PM)
 * **2025.05 ~ 2025.09** 공모전 스터디 - 프로젝트 매니저 (PM)
@@ -64,8 +59,7 @@ Community
 * **2020.09 ~ 2022.03** 공병 - 만기전역
 * **2019.03** 한밭대학교 정보통신공학과 입학
 
-Projects
----
+### Projects
 | Title | Period | Description | Role |
 |---|---|---|---|
 | **[LLM 기반 전세사기 예방 플랫폼 개발](https://github.com/MeritEnding/jguard.git)** | 2025.03 | 생성형 AI 기반의 전세사기 리스크 탐지 및 대화형 상담 플랫폼 개발. 공공 데이터 및 LLM 프롬프트 최적화를 통해 실효성 있는 상담 경험 제공. | ![Project Lead](https://img.shields.io/badge/Project%20Lead-8A2BE2?style=flat-square&logo=leader&logoColor=white) ![FullStack](https://img.shields.io/badge/Full%20Stack-20C997?style=flat-square&logo=code&logoColor=white) |
