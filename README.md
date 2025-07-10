@@ -15,9 +15,8 @@ Skills
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft%20Azure&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)  
 
 
-### Education
+Education
 ---
-
 * **Hanbat National University** – B.S. in Information and Communication Engineering (Advanced Major)
     * March 2019 – February 2025 / Daejeon, South Korea
     * Capstone Project: Performance Enhancement and Implementation of Image Inpainting Based on Deepfillv2
