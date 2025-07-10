@@ -15,6 +15,16 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft%20Azure&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)  
 
 
+### Education
+---
+
+국립한밭대학교 정보통신공학과 (심화전공)
+2019.03 ~ 2025.02 / Daejeon, Korea
+
+졸업 작품: Deepfillv2 기반 인페인팅 성능 개선 및 실증 구현
+
+GPA (4.5 만점 기준): 4.25
+
 ### Awards & Certificate
 ---
 
