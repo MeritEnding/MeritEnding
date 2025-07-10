@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=안녕하세요%20이정훈입니다%20&fontColor=ffffff&fontSize=40&font=Inter)
 
-### Channels
+Channels
+---
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://merit-ending.tistory.com/)
 
 Skills
