@@ -17,14 +17,19 @@ Skills
 
 Education
 ---
-* **Hanbat National University** – B.S. in Information and Communication Engineering (Advanced Major)
-    * March 2019 – February 2025 / Daejeon, South Korea
-    * Capstone Project: Performance Enhancement and Implementation of Image Inpainting Based on Deepfillv2
-* **DSC Shared University Program** – Mobility Software/AI (Interdisciplinary Major)
-    * February 2023 – October 2023 / Daejeon, South Korea
-* **KT AIVLE School** – AI Developer Track (7th Cohort)
-    * March 2025 – September 2025 / Seongnam, Gyeonggi-do, South Korea
-    * Capstone Project: AI-Powered Support System for Career & Employment Counselors
+국립한밭대학교 정보통신공학과 심화전공
+
+2019.03 ~ 2025.02 Daejeon, Korea
+
+- 졸업 작품주제: Deepfillv2 인페인팅 성능 개선 및 실증 구현
+- GPA(4.5 만점)**:** 4.068
+
+**KT AIVLE School** – AI 개발자 트랙 7기
+
+2025.03 ~ 2025.09 Seoul, Korea
+
+- 수료 작품주제: AI 기반 보드게임 기획/개발 어시스턴스
+- 성과: 우수상, 우수 수료생
 
 
 
