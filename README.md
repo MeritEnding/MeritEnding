@@ -47,7 +47,7 @@ Awards & Certificate
 
 International Journal
 - 2026 Journal of Mechanical Science and Technology (JMST, SCIE)
- - Classification of worker concentration state from electroencephalogram signals using genetic-algorithm-based selection of nonlinear dynamic features and a support vector machine
+  - Classification of worker concentration state from electroencephalogram signals using genetic-algorithm-based selection of nonlinear dynamic features and a support vector machine
 
 Conference Proceedings
 ---
