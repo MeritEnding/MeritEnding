@@ -45,18 +45,23 @@ Awards & Certificate
 - SQL 개발자 취득 / 2024.09
 - AICE associate 취득 / 2025.04
 
+## Research Publications
 
-International Journal
-- 2026 Journal of Mechanical Science and Technology (JMST, SCIE)
+### International Journal
+- **2026** Journal of Mechanical Science and Technology (JMST, SCIE)
   - Classification of worker concentration state from electroencephalogram signals using genetic-algorithm-based selection of nonlinear dynamic features and a support vector machine
 
-Conference Proceedings
----
-- 2024년 대한전자공학회 학술심포지움 - DeepFillv2 인페인팅 구조 변형에 따른 성능 개선과 실증 구현
-- 2026년 대한기계학회 춘계학술대회 - IMU 기반 동작 인식과 신호 품질 지수를 결합한 작업자 생체신호 모니터링 및 오경보 저감 연구
-- 2026년 PHM Korea 정기학술대회 - IMU 기반 동작 인식과 신호 품질 지수를 활용한 OSAT 환경 작업자 생체신호 모니터링 및 오경보 저감 기법
-- 2026년 한국해양과학기술협의회 공동학술대회 - 해상조업 데이터를 활용한 어구보증금 표식의 인식 성능 향상에 관한 연구
-- 2026년 대한기계학회 추계학술대회 - 어구보증금제 활성화를 위한 사용어구 무인반납장치의 제어 시퀀스 최적화에 관한 연구
+### Conference Proceedings
+- **2024** 대한전자공학회 학술심포지움
+  - DeepFillv2 인페인팅 구조 변형에 따른 성능 개선과 실증 구현
+- **2026** 대한기계학회 춘계학술대회
+  - IMU 기반 동작 인식과 신호 품질 지수를 결합한 작업자 생체신호 모니터링 및 오경보 저감 연구
+- **2026** PHM Korea 정기학술대회
+  - IMU 기반 동작 인식과 신호 품질 지수를 활용한 OSAT 환경 작업자 생체신호 모니터링 및 오경보 저감 기법
+- **2026** 한국해양과학기술협의회 공동학술대회
+  - 해상작업 데이터에 활용한 어구보증금 표식의 인식 성능 향상에 관한 연구
+- **2026** 대한기계학회 추계학술대회
+  - 어구보증금제 활성화를 위한 사용어구 무인반납장치의 제어 시퀀스 최적화에 관한 연구
 
 Community
 ---
