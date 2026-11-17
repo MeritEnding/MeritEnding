@@ -45,6 +45,7 @@ Awards & Certificate
 - SQL 개발자 취득 / 2024.09
 - AICE associate 취득 / 2025.04
 
+
 International Journal
 - 2026 Journal of Mechanical Science and Technology (JMST, SCIE)
   - Classification of worker concentration state from electroencephalogram signals using genetic-algorithm-based selection of nonlinear dynamic features and a support vector machine
